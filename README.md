@@ -18,8 +18,6 @@ I want to address those issues.
 
 One thing to keep in mind is that everyone thinks differently. People have different learning styles and approaches, so you might come across other roadmaps or advice that suggest a different path. That’s totally normal.
 
-What you're going to read below is based on my ([@Behi_Sec](https://x.com/Behi_Sec)) personal experience of over 4 years as a part-time bug hunter.
-
 When I started, I had to learn everything by trial and error. I wasted weeks going in the wrong direction.
 
 This repo is my way of helping you skip the guesswork and build a strong foundation. Once you've got the basics down, leveling up will be way easier.
